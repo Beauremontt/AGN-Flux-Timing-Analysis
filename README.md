@@ -13,4 +13,4 @@ Load flux data, then analyze it for periodic features using the [Jupyter script]
 #### To Do
 * Create histogram for the spacing of data points
 * Filter out low SNR and negative (?) flux data
-* Load flux data automatically (from Drive or directly from a URL?)
+* ~~Load flux data automatically (from Drive or directly from a URL?)~~
