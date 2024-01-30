@@ -18,5 +18,6 @@ Load flux data, then analyze it for periodic features using the [Jupyter script]
 * ~~Create histogram for the spacing of data points~~
 * Filter out low SNR and negative (?) flux data
 * ~~Load flux data automatically (from Drive or directly from a URL?)~~
-* Create list of LSP peaks sorted by power
+* ~~Create list of LSP peaks sorted by power~~
+  * Remove values from list that aren't peaks
 * Plot phased diagram for a chosen (max?) period
